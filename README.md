@@ -1,5 +1,5 @@
 
-### 👋 Hi there, I'm Sam / tritoke (they/them)
+### 👋 Hi there, I'm Sam / tritoke (he/them)
 
 I'm an avid programmer with an strong interest in cyber security.
 
